@@ -45,4 +45,4 @@ def delete(id: int):
     return {"message": "Student deleted"}
 @app.get("/hello")
 def hello():
-    return {"message": "Hello"}
+    return {"message": "Helloo"}
